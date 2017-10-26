@@ -3,6 +3,6 @@
 	"description" : "Basic Authentication handler for the JSON API, used for development and debugging purposes",
 	"type" : "wordpress-muplugin",
 	"require": {
-		"composer/installers": "^1.4"
+		"composer/installers": "1.4.0"
 	}
 }
